@@ -8,7 +8,7 @@ name: Big Band Of Boom
 #Image_URL: some-absolute-image-url
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: banner-bg.jpg
+Cover_Image: /assets/images/banner-bg.jpg
 
 # SOCIAL MEDIA
 links:
